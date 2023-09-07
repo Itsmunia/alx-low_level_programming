@@ -5,6 +5,8 @@
  * Description: print a quote using write function
  * write (int fd.const void "buf.size_t count")
  * Return: 1 (not success)
+ 
+# Please enter the commit message for your changes. Lines starting
  */
 
 int main(void)
